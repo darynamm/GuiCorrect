@@ -14,6 +14,9 @@ public FirstFrame(Controller app)
 
 private void setupFrame()
 {
+	
+	this.setTitle("My Amazing app!!!!!!!");
+	this.setSize(800, 600);
 	this.setVisible(true);
 }
 }
